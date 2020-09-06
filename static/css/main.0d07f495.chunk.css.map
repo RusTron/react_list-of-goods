@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACE,YACF,CAEA,QACE,eACF,CAEA,QACE,cACF","file":"main.0d07f495.chunk.css","sourcesContent":[".passive {\n  display: none;\n}\n\n.button {\n  margin-left: 5px;\n}\n\n.select {\n  margin-top: 5px;\n}\n"]}
